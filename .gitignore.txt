@@ -1,0 +1,23 @@
+# Ignore data and outputs
+data/
+results/
+
+# Ignore large or generated files
+*.txt
+*.log
+*.out
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Hadoop/Spark temp files
+*.crc
