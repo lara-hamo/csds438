@@ -1,0 +1,36 @@
+Novel Preparation Report
+============================================================
+Total novels: 24
+
+Title                                         Tier        Words   Sents   Reduc
+------------------------------------------------------------
+Pride and Prejudice                           HIGH       81,006   5,460    1.3%
+Alice's Adventures in Wonderland              HIGH       80,967   5,403    1.3%
+Frankenstein                                  HIGH       81,169   5,420    1.3%
+The Adventures of Sherlock Holmes             HIGH       80,878   5,419    1.3%
+A Tale of Two Cities                          HIGH       80,961   5,448    1.3%
+Moby Dick                                     HIGH       81,107   5,440    1.3%
+The Adventures of Tom Sawyer                  HIGH       80,940   5,448    1.3%
+A Modest Proposal                             HIGH       81,120   5,433    1.3%
+Dracula                                       MEDIUM     55,731   4,837    1.5%
+Jane Eyre                                     MEDIUM     55,739   4,905    1.5%
+A Doll's House                                MEDIUM     55,778   4,903    1.5%
+Wuthering Heights                             MEDIUM     55,667   4,839    1.5%
+Metamorphosis                                 MEDIUM     55,631   4,836    1.5%
+Crime and Punishment                          MEDIUM     55,583   4,875    1.5%
+Sense and Sensibility                         MEDIUM     55,701   4,865    1.5%
+The Picture of Dorian Gray                    MEDIUM     55,818   4,875    1.5%
+Great Expectations                            LOW       101,712   3,954    0.5%
+The Mayor of Casterbridge                     LOW       101,945   3,926    0.5%
+Emma                                          LOW       101,890   3,951    0.5%
+The Count of Monte Cristo                     LOW       101,526   3,898    0.5%
+Leviathan                                     LOW       101,302   3,917    0.5%
+The Turn of the Screw                         LOW       101,855   3,922    0.5%
+A Study in Scarlet                            LOW       102,164   3,984    0.5%
+Don Quixote                                   LOW       101,472   3,892    0.5%
+
+Tier Summary
+------------------------------
+  HIGH    : 8 novels, 648,148 total words
+  LOW     : 8 novels, 813,866 total words
+  MEDIUM  : 8 novels, 445,648 total words
